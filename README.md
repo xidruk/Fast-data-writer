@@ -54,8 +54,6 @@ These utilities support the formatting functions in `fast_printer.c`, ensuring t
   - `fprinter_utils.c`: Contains helper functions to initialize the printer and set up buffers and file paths.
   - `fast_printer.c`: Implements the core printing function, processing format specifiers and executing the optimized write.
   - `gheader.h`, `gdefs.h`: Header files with declarations for the printer structure, error codes, flags, and function prototypes.
-  - `main.c`, `tester.c`: Sample and testing code for demonstrating fwriter functionality.
-  - `boosting_pack.xdk`: A project-specific file, possibly for configuration or extended functionality.
 
 - **Boosting Package (Directory: `boosting_package/`):**
   - `boosting_package.h`: Header file for the utility functions.
